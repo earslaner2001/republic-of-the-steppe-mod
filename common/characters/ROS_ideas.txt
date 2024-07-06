@@ -2,7 +2,7 @@ characters = {	murat_kaan_buyukservi = {
 		name = murat_kaan_buyukservi
 		portraits = {
 			army = {
-			small = "gfx/interface/ideas/ROS/DRyYWliQ-121993.dds"
+			small = "gfx/interface/ideas/ROS/XSZplPJu-121993.dds"
 			}
 		}
 		advisor = {
@@ -18,7 +18,7 @@ characters = {	murat_kaan_buyukservi = {
 		name = utku_cag
 		portraits = {
 			army = {
-			small = "gfx/interface/ideas/ROS/IftJexDT-1376.dds"
+			small = "gfx/interface/ideas/ROS/GyjrZIch-1376.dds"
 			}
 		}
 		advisor = {
@@ -34,7 +34,7 @@ characters = {	murat_kaan_buyukservi = {
 		name = ali_yaman
 		portraits = {
 			army = {
-			small = "gfx/interface/ideas/ROS/KjecEFqd-121998.dds"
+			small = "gfx/interface/ideas/ROS/EnCvlbqa-121998.dds"
 			}
 		}
 		advisor = {
@@ -50,7 +50,7 @@ characters = {	murat_kaan_buyukservi = {
 		name = akin_borekci
 		portraits = {
 			army = {
-			small = "gfx/interface/ideas/ROS/pokiSHfJ-1513.dds"
+			small = "gfx/interface/ideas/ROS/xnJKNGrt-1513.dds"
 			}
 		}
 		advisor = {

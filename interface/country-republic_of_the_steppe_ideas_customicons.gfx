@@ -1,26 +1,32 @@
 spriteTypes = { 
 	##Icon For: Murat Kaan Buyukservi
 	SpriteType = { 
-		name = "DRyYWliQ-121993"
-		texturefile = "gfx/interface/ideas/ROS/DRyYWliQ-121993.dds"
+		name = "XSZplPJu-121993"
+		texturefile = "gfx/interface/ideas/ROS/XSZplPJu-121993.dds"
 	}
 
 	##Icon For: Utku CAG
 	SpriteType = { 
-		name = "IftJexDT-1376"
-		texturefile = "gfx/interface/ideas/ROS/IftJexDT-1376.dds"
+		name = "GyjrZIch-1376"
+		texturefile = "gfx/interface/ideas/ROS/GyjrZIch-1376.dds"
 	}
 
 	##Icon For: Ali Yaman
 	SpriteType = { 
-		name = "KjecEFqd-121998"
-		texturefile = "gfx/interface/ideas/ROS/KjecEFqd-121998.dds"
+		name = "EnCvlbqa-121998"
+		texturefile = "gfx/interface/ideas/ROS/EnCvlbqa-121998.dds"
 	}
 
 	##Icon For: Akin Borekci
 	SpriteType = { 
-		name = "pokiSHfJ-1513"
-		texturefile = "gfx/interface/ideas/ROS/pokiSHfJ-1513.dds"
+		name = "xnJKNGrt-1513"
+		texturefile = "gfx/interface/ideas/ROS/xnJKNGrt-1513.dds"
+	}
+
+	##Icon For: Bozkır Tank Palet Fabrikası
+	SpriteType = { 
+		name = "VdJwXGHW-1365"
+		texturefile = "gfx/interface/ideas/ROS/VdJwXGHW-1365.dds"
 	}
 
  

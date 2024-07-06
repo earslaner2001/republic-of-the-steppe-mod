@@ -5,7 +5,7 @@ alpagu = {
 	portraits = {
 		civilian = {
 			#Custom image for Alpagu
-			large = "/gfx/leaders/ROS/nswdvIcb-9453.dds"
+			large = "/gfx/leaders/ROS/zJrfASDO-9453.dds"
 		}
 	}
 	country_leader = {
@@ -21,7 +21,7 @@ furkan_alpaslan = {
 	portraits = {
 		civilian = {
 			#Custom image for Furkan ALPASLAN
-			large = "/gfx/leaders/ROS/hduoUayl-179187.dds"
+			large = "/gfx/leaders/ROS/whksfpWZ-179187.dds"
 		}
 	}
 	country_leader = {
@@ -37,7 +37,7 @@ osmangultekin = {
 	portraits = {
 		civilian = {
 			#Custom image for Osman Gültekin
-			large = "/gfx/leaders/ROS/kTgRdyGL-10211.dds"
+			large = "/gfx/leaders/ROS/LykKqQfN-10211.dds"
 		}
 	}
 	country_leader = {
@@ -47,13 +47,13 @@ osmangultekin = {
 	}
 }
 
-#Create country leader - Ahmet Eymen Şahinyılmaz
-ahmeteymensahinyilmaz = {
-	name = ahmeteymensahinyilmaz
+#Create country leader - Çınar Furkan İLKİR
+cinarfurkanilkir = {
+	name = cinarfurkanilkir
 	portraits = {
 		civilian = {
-			#Custom image for Ahmet Eymen Şahinyılmaz
-			large = "/gfx/leaders/ROS/frBMvYXy-9518.dds"
+			#Custom image for Çınar Furkan İLKİR
+			large = "/gfx/leaders/ROS/FTycQOgn-9518.dds"
 		}
 	}
 	country_leader = {
@@ -69,7 +69,7 @@ emirhan_arslaner = {
 	portraits = {
 		civilian = {
 			#Custom image for Emirhan ARSLANER
-			large = "/gfx/leaders/ROS/FEHAXDdz-9520.dds"
+			large = "/gfx/leaders/ROS/kzTNIDUf-9520.dds"
 		}
 	}
 	country_leader = {
@@ -96,7 +96,7 @@ emirhan_arslaner = {
 			defense_skill = 3
 			planning_skill = 2
 			logistics_skill = 5
-		legacy_id = 162384020
+		legacy_id = 198384020
 		}
 	}
 
@@ -117,7 +117,7 @@ emirhan_arslaner = {
 			defense_skill = 3
 			planning_skill = 5
 			logistics_skill = 3
-		legacy_id = 162384021
+		legacy_id = 198384021
 		}
 	}
 
@@ -138,7 +138,7 @@ emirhan_arslaner = {
 			defense_skill = 5
 			planning_skill = 2
 			logistics_skill = 3
-		legacy_id = 162384022
+		legacy_id = 198384022
 		}
 	}
 
@@ -159,7 +159,7 @@ emirhan_arslaner = {
 			defense_skill = 5
 			planning_skill = 1
 			logistics_skill = 3
-		legacy_id = 162384023
+		legacy_id = 198384023
 		}
 	}
 
@@ -179,7 +179,7 @@ emirhan_arslaner = {
 			defense_skill = 5
 			maneuvering_skill = 3
 			coordination_skill = 3
-			legacy_id = 362384020
+			legacy_id = 398384020
 		}
 	}
 }
