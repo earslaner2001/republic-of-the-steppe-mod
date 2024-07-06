@@ -1,0 +1,252 @@
+#Create units
+division_template = {
+	name = "Steppe Division"
+	division_names_group = "ROS_DIV_0_0"
+	regiments = {
+		infantry = { x = 0 y = 0}
+		infantry = { x = 0 y = 1}
+		infantry = { x = 0 y = 2}
+		infantry = { x = 1 y = 0}
+		infantry = { x = 1 y = 1}
+		infantry = { x = 1 y = 2}
+		infantry = { x = 2 y = 0}
+		infantry = { x = 2 y = 1}
+		infantry = { x = 2 y = 2}
+	}
+	support = {
+		logistics_company = { x = 0 y = 0}
+		artillery = { x = 0 y = 1}
+	}
+
+}
+division_template = {
+	name = "Steppe Garnisons"
+	division_names_group = "ROS_DIV_1_0"
+	regiments = {
+		infantry = { x = 0 y = 0}
+		infantry = { x = 0 y = 1}
+		infantry = { x = 1 y = 0}
+		infantry = { x = 1 y = 1}
+		cavalry = { x = 2 y = 0}
+		cavalry = { x = 2 y = 1}
+	}
+	support = {
+		field_hospital = { x = 0 y = 0}
+		military_police = { x = 0 y = 1}
+	}
+
+}
+
+#Spawn units
+units = {
+	division= {
+		name = "1st Steppe Division"
+		location = 568
+		division_template = "Steppe Division"
+	}
+	division= {
+		name = "2nd Steppe Division"
+		location = 568
+		division_template = "Steppe Division"
+	}
+	division= {
+		name = "3rd Steppe Division"
+		location = 568
+		division_template = "Steppe Division"
+	}
+	division= {
+		name = "4th Steppe Division"
+		location = 568
+		division_template = "Steppe Division"
+	}
+	division= {
+		name = "5th Steppe Division"
+		location = 568
+		division_template = "Steppe Division"
+	}
+	division= {
+		name = "6th Steppe Division"
+		location = 6771
+		division_template = "Steppe Division"
+	}
+	division= {
+		name = "7th Steppe Division"
+		location = 6771
+		division_template = "Steppe Division"
+	}
+	division= {
+		name = "8th Steppe Division"
+		location = 6771
+		division_template = "Steppe Division"
+	}
+	division= {
+		name = "9th Steppe Division"
+		location = 6771
+		division_template = "Steppe Division"
+	}
+	division= {
+		name = "10th Steppe Division"
+		location = 6771
+		division_template = "Steppe Division"
+	}
+	division= {
+		name = "11th Steppe Division"
+		location = 9712
+		division_template = "Steppe Division"
+	}
+	division= {
+		name = "12th Steppe Division"
+		location = 9712
+		division_template = "Steppe Division"
+	}
+	division= {
+		name = "13th Steppe Division"
+		location = 9712
+		division_template = "Steppe Division"
+	}
+	division= {
+		name = "14th Steppe Division"
+		location = 9712
+		division_template = "Steppe Division"
+	}
+	division= {
+		name = "15th Steppe Division"
+		location = 9712
+		division_template = "Steppe Division"
+	}
+	division= {
+		name = "16th Steppe Division"
+		location = 9729
+		division_template = "Steppe Division"
+	}
+	division= {
+		name = "17th Steppe Division"
+		location = 9729
+		division_template = "Steppe Division"
+	}
+	division= {
+		name = "18th Steppe Division"
+		location = 9729
+		division_template = "Steppe Division"
+	}
+	division= {
+		name = "19th Steppe Division"
+		location = 9729
+		division_template = "Steppe Division"
+	}
+	division= {
+		name = "20th Steppe Division"
+		location = 11700
+		division_template = "Steppe Division"
+	}
+	division= {
+		name = "21st Steppe Division"
+		location = 11700
+		division_template = "Steppe Division"
+	}
+	division= {
+		name = "22nd Steppe Division"
+		location = 11700
+		division_template = "Steppe Division"
+	}
+	division= {
+		name = "23rd Steppe Division"
+		location = 11700
+		division_template = "Steppe Division"
+	}
+	division= {
+		name = "24th Steppe Division"
+		location = 11700
+		division_template = "Steppe Division"
+	}
+	division= {
+		name = "25th Steppe Garnisons"
+		location = 472
+		division_template = "Steppe Garnisons"
+	}
+	division= {
+		name = "26th Steppe Garnisons"
+		location = 472
+		division_template = "Steppe Garnisons"
+	}
+	division= {
+		name = "27th Steppe Garnisons"
+		location = 754
+		division_template = "Steppe Garnisons"
+	}
+	division= {
+		name = "28th Steppe Garnisons"
+		location = 754
+		division_template = "Steppe Garnisons"
+	}
+	division= {
+		name = "29th Steppe Garnisons"
+		location = 3403
+		division_template = "Steppe Garnisons"
+	}
+	division= {
+		name = "30th Steppe Garnisons"
+		location = 3403
+		division_template = "Steppe Garnisons"
+	}
+	division= {
+		name = "31st Steppe Garnisons"
+		location = 3686
+		division_template = "Steppe Garnisons"
+	}
+	division= {
+		name = "32nd Steppe Garnisons"
+		location = 3686
+		division_template = "Steppe Garnisons"
+	}
+	division= {
+		name = "33rd Steppe Garnisons"
+		location = 9463
+		division_template = "Steppe Garnisons"
+	}
+	division= {
+		name = "34th Steppe Garnisons"
+		location = 9463
+		division_template = "Steppe Garnisons"
+	}
+	division= {
+		name = "35th Steppe Garnisons"
+		location = 9680
+		division_template = "Steppe Garnisons"
+	}
+	division= {
+		name = "36th Steppe Garnisons"
+		location = 9680
+		division_template = "Steppe Garnisons"
+	}
+	division= {
+		name = "37th Steppe Garnisons"
+		location = 9698
+		division_template = "Steppe Garnisons"
+	}
+	division= {
+		name = "38th Steppe Garnisons"
+		location = 9698
+		division_template = "Steppe Garnisons"
+	}
+	division= {
+		name = "39th Steppe Garnisons"
+		location = 11409
+		division_template = "Steppe Garnisons"
+	}
+	division= {
+		name = "40th Steppe Garnisons"
+		location = 11409
+		division_template = "Steppe Garnisons"
+	}
+	division= {
+		name = "41st Steppe Garnisons"
+		location = 11715
+		division_template = "Steppe Garnisons"
+	}
+	division= {
+		name = "42nd Steppe Garnisons"
+		location = 11715
+		division_template = "Steppe Garnisons"
+	}
+}

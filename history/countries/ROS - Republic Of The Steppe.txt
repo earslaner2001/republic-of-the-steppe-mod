@@ -1,0 +1,74 @@
+﻿oob = "ROS_1936"
+capital = 1
+set_research_slots = 3
+set_stability = 0.5
+set_war_support = 0.5
+set_convoys = 0
+
+
+add_ideas = {
+	extensive_conscription
+	partial_economic_mobilisation
+}
+
+	recruit_character = murat_kaan_buyukservi
+	recruit_character = utku_cag
+	recruit_character = ali_yaman
+	recruit_character = akin_borekci
+
+#Starting tech
+set_technology = {
+	artillery1 = 1
+	base_strike = 1
+	concentrated_industry = 1
+	tech_engineers = 1
+	infantry_weapons = 1
+	artillery2 = 1
+	motorised_infantry = 1
+}
+
+
+#For start date 1939.1.1
+1939.1.1 = {
+	add_political_power = 1000
+	oob = "ROS_1939"
+}
+
+#Politics for 1936.1.1
+set_politics = {
+	ruling_party = democratic
+	last_election = "1935.5.22"
+	election_frequency = 60
+	elections_allowed = yes
+}
+set_popularities = {
+	democratic = 5
+	fascism = 15
+	communism = 20
+	neutrality = 25
+	republic_of_the_steppe = 30
+}
+
+#Politics for 1939.1.1
+1939.1.1 = {
+	set_popularities = {
+		democratic = 25
+		fascism = 25
+		communism = 25
+		neutrality = 25
+		republic_of_the_steppe = 0
+	}
+}
+
+recruit_character = emirhan_arslaner
+recruit_character = ahmeteymensahinyilmaz
+recruit_character = osmangultekin
+recruit_character = furkan_alpaslan
+recruit_character = alpagu
+
+recruit_character = eren_demirci
+recruit_character = kara_yusuf
+recruit_character = selcukcikar
+recruit_character = kutlualp
+recruit_character = yasarmertferahli
+
