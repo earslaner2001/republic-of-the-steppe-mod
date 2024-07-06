@@ -1,0 +1,15 @@
+version="1.11.*"
+tags={
+	"Alternative History"
+	"Balance"
+	"Events"
+	"Gameplay"
+	"Historical"
+	"Ideologies"
+	"Map"
+	"Military"
+	"National Focuses"
+}
+name="Republic Of The Steppe"
+supported_version="1.14.*"
+remote_file_id="2783114899"

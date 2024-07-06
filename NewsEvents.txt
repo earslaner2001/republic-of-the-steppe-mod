@@ -1,0 +1,21 @@
+﻿###########################
+# News Events
+###########################
+
+add_namespace = newstate
+
+news_event = {
+	id = newstate.1
+	title = "New State!"
+	desc = republicofthesteppe_discovered
+	picture = GFX_news_event_fascist_militia
+	
+	major = yes
+	
+	fire_for_sender = no
+	is_triggered_only = yes
+	
+	option = {
+		name = "Fi Sebilillah"
+	}
+}
