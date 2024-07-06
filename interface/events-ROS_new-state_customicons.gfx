@@ -1,0 +1,15 @@
+spriteTypes = { 
+	##Icon For: New Government Established!
+	SpriteType = { 
+		name = "ROS_new_government_established-1026"
+		texturefile = "gfx/interface/events/new-state-event/ROS_new_government_established-1026.dds"
+	}
+
+	##Icon For: New Government!
+	SpriteType = { 
+		name = "ROS_new_government-572"
+		texturefile = "gfx/interface/events/new-state-event/ROS_new_government-572.dds"
+	}
+
+ 
+ }

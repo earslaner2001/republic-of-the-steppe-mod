@@ -1,0 +1,9 @@
+spriteTypes = { 
+	##Icon For: Furkan ALPASLAN
+	SpriteType = { 
+		name = "GFX_idea_ROS_furkan_alpaslan-121980"
+		texturefile = "gfx/interface/ideas/republic-of-the-steppe-ideas/ROS_furkan_alpaslan-121980.dds"
+	}
+
+ 
+ }
