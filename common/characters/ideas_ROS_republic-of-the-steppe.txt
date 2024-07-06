@@ -1,0 +1,24 @@
+characters = {	ROS_furkan_alpaslan = {
+		name = ROS_furkan_alpaslan
+		portraits = {
+			army = {
+			small = "gfx/interface/ideas/republic-of-the-steppe-ideas/ROS_furkan_alpaslan-121980.dds"
+			}
+		}
+		advisor = {
+			slot = political_advisor
+			idea_token = ros_furkan_alpaslan
+			description = {
+				Furkan ALPASLAN is our King. Long live!
+			}
+			traits = {
+				 dictator popular_figurehead
+			}
+			available = {
+				ROS = {
+
+}
+
+			}
+		}
+	}

@@ -1,0 +1,185 @@
+characters = {
+#Create country leader - Alpagu
+alpagu = {
+	name = alpagu
+	portraits = {
+		civilian = {
+			#Custom image for Alpagu
+			large = "/gfx/leaders/ROS/nswdvIcb-9453.dds"
+		}
+	}
+	country_leader = {
+		expire = "1936.05.01"
+		ideology = conservatism
+		traits = {  collaborator_king dislikes_germany autocratic_imperialist warrior_code }
+	}
+}
+
+#Create country leader - Furkan ALPASLAN
+furkan_alpaslan = {
+	name = furkan_alpaslan
+	portraits = {
+		civilian = {
+			#Custom image for Furkan ALPASLAN
+			large = "/gfx/leaders/ROS/hduoUayl-179187.dds"
+		}
+	}
+	country_leader = {
+		expire = "1936.05.01"
+		ideology = fascism_ideology
+		traits = {  dictator warrior_code collaborator_king warmonger dislikes_germany }
+	}
+}
+
+#Create country leader - Osman Gültekin
+osmangultekin = {
+	name = osmangultekin
+	portraits = {
+		civilian = {
+			#Custom image for Osman Gültekin
+			large = "/gfx/leaders/ROS/kTgRdyGL-10211.dds"
+		}
+	}
+	country_leader = {
+		expire = "1965.1.1"
+		ideology = stalinism
+		traits = {  }
+	}
+}
+
+#Create country leader - Ahmet Eymen Şahinyılmaz
+ahmeteymensahinyilmaz = {
+	name = ahmeteymensahinyilmaz
+	portraits = {
+		civilian = {
+			#Custom image for Ahmet Eymen Şahinyılmaz
+			large = "/gfx/leaders/ROS/frBMvYXy-9518.dds"
+		}
+	}
+	country_leader = {
+		expire = "1965.1.1"
+		ideology = despotism
+		traits = {  }
+	}
+}
+
+#Create country leader - Emirhan ARSLANER
+emirhan_arslaner = {
+	name = emirhan_arslaner
+	portraits = {
+		civilian = {
+			#Custom image for Emirhan ARSLANER
+			large = "/gfx/leaders/ROS/FEHAXDdz-9520.dds"
+		}
+	}
+	country_leader = {
+		expire = "1965.1.1"
+		ideology = conservatism
+		traits = {  }
+	}
+}
+
+#Create military leader - Eren Demirci
+	eren_demirci = {
+		name = "eren_demirci"
+		portraits = {
+			army = {
+				#Custom images for Eren Demirci
+				large = "/gfx/leaders/ROS/eren_demirci-9490.dds"
+				small = "/gfx/interface/ideas/ROS/eren_demirci-9490.dds"
+			}
+		}
+		field_marshal = {
+			traits = { brilliant_strategist old_guard war_hero career_officer logistics_wizard offensive_doctrine inspirational_leader panzer_leader trait_engineer lancer }
+			skill = 6
+			attack_skill = 4
+			defense_skill = 3
+			planning_skill = 2
+			logistics_skill = 5
+		legacy_id = 162384020
+		}
+	}
+
+#Create military leader - Kara Yusuf
+	kara_yusuf = {
+		name = "kara_yusuf"
+		portraits = {
+			army = {
+				#Custom images for Kara Yusuf
+				large = "/gfx/leaders/ROS/kara_yusuf-179200.dds"
+				small = "/gfx/interface/ideas/ROS/kara_yusuf-179200.dds"
+			}
+		}
+		corps_commander = {
+			traits = { infantry_officer infantry_leader infantry_expert logistics_wizard war_hero fast_planner }
+			skill = 5
+			attack_skill = 6
+			defense_skill = 3
+			planning_skill = 5
+			logistics_skill = 3
+		legacy_id = 162384021
+		}
+	}
+
+#Create military leader - Selçuk Çıkar
+	selcukcikar = {
+		name = "selcukcikar"
+		portraits = {
+			army = {
+				#Custom images for Selçuk Çıkar
+				large = "/gfx/leaders/ROS/selcukcikar-121928.dds"
+				small = "/gfx/interface/ideas/ROS/selcukcikar-121928.dds"
+			}
+		}
+		field_marshal = {
+			traits = { infantry_officer infantry_leader infantry_expert logistics_wizard }
+			skill = 4
+			attack_skill = 6
+			defense_skill = 5
+			planning_skill = 2
+			logistics_skill = 3
+		legacy_id = 162384022
+		}
+	}
+
+#Create military leader - Kutlualp
+	kutlualp = {
+		name = "kutlualp"
+		portraits = {
+			army = {
+				#Custom images for Kutlualp
+				large = "/gfx/leaders/ROS/kutlualp-9489.dds"
+				small = "/gfx/interface/ideas/ROS/kutlualp-9489.dds"
+			}
+		}
+		corps_commander = {
+			traits = { brilliant_strategist old_guard war_hero career_officer logistics_wizard offensive_doctrine inspirational_leader panzer_leader trait_engineer lancer }
+			skill = 3
+			attack_skill = 2
+			defense_skill = 5
+			planning_skill = 1
+			logistics_skill = 3
+		legacy_id = 162384023
+		}
+	}
+
+	yasarmertferahli = {
+		name = "yasarmertferahli"
+		portraits = {
+			army = {
+				#Custom images for Yasar Mert FERAHLİ
+				large = "/gfx/leaders/ROS/yasarmertferahli-9458.dds"
+				small = "/gfx/interface/ideas/ROS/yasarmertferahli-9458.dds"
+			}
+		}
+		navy_leader = {
+			traits = { naval_liason naval_invader battleship_adherent old_guard_navy navy_career_officer navy_media_personality cruiser_captain }
+			skill = 5
+			attack_skill = 6
+			defense_skill = 5
+			maneuvering_skill = 3
+			coordination_skill = 3
+			legacy_id = 362384020
+		}
+	}
+}

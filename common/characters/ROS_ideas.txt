@@ -1,0 +1,65 @@
+characters = {	murat_kaan_buyukservi = {
+		name = murat_kaan_buyukservi
+		portraits = {
+			army = {
+			small = "gfx/interface/ideas/ROS/DRyYWliQ-121993.dds"
+			}
+		}
+		advisor = {
+			slot = political_advisor
+			idea_token = murat_kaan_buyukservi
+			allowed = {
+				original_tag = ROS
+			}
+			traits = { economic_reformer popular_figurehead captain_of_industry}
+		}
+	}
+	utku_cag = {
+		name = utku_cag
+		portraits = {
+			army = {
+			small = "gfx/interface/ideas/ROS/IftJexDT-1376.dds"
+			}
+		}
+		advisor = {
+			slot = political_advisor
+			idea_token = utku_cag
+			allowed = {
+				original_tag = ROS
+			}
+			traits = {warrior_code anti_democrat popular_figurehead2  likes_turkey dislikes_germany}
+		}
+	}
+	ali_yaman = {
+		name = ali_yaman
+		portraits = {
+			army = {
+			small = "gfx/interface/ideas/ROS/KjecEFqd-121998.dds"
+			}
+		}
+		advisor = {
+			slot = political_advisor
+			idea_token = ali_yaman
+			allowed = {
+				original_tag = ROS
+			}
+			traits = { anti_communist national_integralist nationalist_symbol prime_minister_saracoglu}
+		}
+	}
+	akin_borekci = {
+		name = akin_borekci
+		portraits = {
+			army = {
+			small = "gfx/interface/ideas/ROS/pokiSHfJ-1513.dds"
+			}
+		}
+		advisor = {
+			slot = political_advisor
+			idea_token = akin_borekci
+			allowed = {
+				original_tag = ROS
+			}
+			traits = { right_industrialist captain_of_industry industrial_monopoly}
+		}
+	}
+}

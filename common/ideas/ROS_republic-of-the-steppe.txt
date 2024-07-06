@@ -1,0 +1,17 @@
+ideas = {
+	political_advisor = {
+
+		ROS_furkan_alpaslan = {
+			picture = ROS_furkan_alpaslan-121980
+			traits = {
+				 dictator popular_figurehead
+			}
+			available = {
+				ROS = {
+
+}
+
+			}
+		}
+	}
+}

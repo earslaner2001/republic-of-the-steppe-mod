@@ -1,0 +1,16 @@
+ROS_DIV_0_0 = {	name = "Steppe Division"
+	for_countries = { ROS }
+	can_use = { always = yes }
+	division_types = { 
+		"infantry" }
+	}
+	fallback_name = "%d. Steppe Division"
+}
+ROS_DIV_1_0 = {	name = "Steppe Garnisons"
+	for_countries = { ROS }
+	can_use = { always = yes }
+	division_types = { 
+		"infantry" "cavalry" }
+	}
+	fallback_name = "%d. Steppe Garnisons"
+}

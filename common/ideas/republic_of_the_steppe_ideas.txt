@@ -1,0 +1,56 @@
+ideas = {
+	mobilization_laws = {
+}
+	economy = {
+}
+	political_advisor = {
+		murat_kaan_buyukservi = {
+			allowed = {
+				tag = ROS
+			}
+			traits = { economic_reformer popular_figurehead captain_of_industry}
+			picture = "DRyYWliQ-121993"
+		}
+		utku_cag = {
+			allowed = {
+				tag = ROS
+			}
+			traits = {warrior_code anti_democrat popular_figurehead2  likes_turkey dislikes_germany}
+			picture = "IftJexDT-1376"
+		}
+		ali_yaman = {
+			allowed = {
+				tag = ROS
+			}
+			traits = { anti_communist national_integralist nationalist_symbol prime_minister_saracoglu}
+			picture = "KjecEFqd-121998"
+		}
+		akin_borekci = {
+			allowed = {
+				tag = ROS
+			}
+			traits = { right_industrialist captain_of_industry industrial_monopoly}
+			picture = "pokiSHfJ-1513"
+		}
+}
+	tank_manufacturer = {
+}
+	naval_manufacturer = {
+}
+	aircraft_manufacturer = {
+}
+	materiel_manufacturer = {
+}
+	industrial_concern = {
+}
+	theorist = {
+}
+	army_chief = {
+}
+	navy_chief = {
+}
+	air_chief = {
+}
+	high_command = {
+}
+}
