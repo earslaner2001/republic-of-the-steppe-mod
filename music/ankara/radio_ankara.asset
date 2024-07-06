@@ -1,0 +1,181 @@
+# Radyo Ankara
+# Deneme #
+
+music = {
+	name = "maintheme"
+	file = "with_some_malice.ogg"
+	volume = 1
+}
+
+
+#### Normal Zaman ####
+
+music = {
+	name = "yigidim_aslanim"
+	file = "yigidim_aslanim.ogg"
+	volume = 1
+}
+
+music = {
+	name = "c_bekledim_de_gelmedin"
+	file = "c_bekledim_de_gelmedin.ogg"
+	volume = 1
+}
+
+music = {
+	name = "c_bir_deniz_ki_gozlerin"
+	file = "c_bir_deniz_ki_gozlerin.ogg"
+	volume = 1
+}
+
+music = {
+	name = "c_carousel"
+	file = "c_carousel.ogg"
+	volume = 1
+}
+
+music = {
+	name = "c_eristi_nevbahar_eyyami"
+	file = "c_eristi_nevbahar_eyyami.ogg"
+	volume = 1
+}
+
+music = {
+	name = "c_fikrimin_ince_gulu"
+	file = "c_fikrimin_ince_gulu.ogg"
+	volume = 1
+}
+
+music = {
+	name = "c_hatirla_ey_peri"
+	file = "c_hatirla_ey_peri.ogg"
+	volume = 1
+}
+
+music = {
+	name = "c_hayal_ufkumda_ucan"
+	file = "c_hayal_ufkumda_ucan.ogg"
+	volume = 1
+}
+
+music = {
+	name = "c_ikinci_bahar"
+	file = "c_ikinci_bahar.ogg"
+	volume = 1
+}
+
+music = {
+	name = "c_kelebek"
+	file = "c_kelebek.ogg"
+	volume = 1
+}
+
+music = {
+	name = "c_kus_olup_ucsam"
+	file = "c_kus_olup_ucsam.ogg"
+	volume = 1
+}
+
+music = {
+	name = "c_nazende_sevgilim"
+	file = "c_nazende_sevgilim.ogg"
+	volume = 1
+}
+
+music = {
+	name = "c_pervane"
+	file = "c_pervane.ogg"
+	volume = 1
+}
+
+music = {
+	name = "c_samanyolu"
+	file = "c_samanyolu.ogg"
+	volume = 1
+}
+
+music = {
+	name = "c_to_vals_to_gamou"
+	file = "c_to_vals_to_gamou.ogg"
+	volume = 1
+}
+
+music = {
+	name = "c_unutulmaz"
+	file = "c_unutulmaz.ogg"
+	volume = 1
+}
+
+music = {
+	name = "c_waltz_no_iki"
+	file = "c_waltz_no_iki.ogg"
+	volume = 1
+}
+
+music = {
+	name = "c_yine_bir_gulnihal"
+	file = "c_yine_bir_gulnihal.ogg"
+	volume = 1
+}
+
+#### Savaş Zamanı ####
+
+music = {
+	name = "cvrtoon_ankaranin_tasina_bak"
+	file = "cvrtoon_ankaranin_tasina_bak.ogg"
+	volume = 1
+}
+
+music = {
+	name = "cvrtoon_cengiz_harbi"
+	file = "cvrtoon_cengiz_harbi.ogg"
+	volume = 1
+}
+
+music = {
+	name = "cvrtoon_deniz_ustu_kopurur"
+	file = "cvrtoon_deniz_ustu_kopurur.ogg"
+	volume = 1
+}
+
+music = {
+	name = "cvrtoon_plevne"
+	file = "cvrtoon_plevne.ogg"
+	volume = 1
+}
+
+music = {
+	name = "cvrtoon_seyh_samil"
+	file = "cvrtoon_seyh_samil.ogg"
+	volume = 1
+}
+
+music = {
+	name = "cvrtoon_uskudar"
+	file = "cvrtoon_uskudar.ogg"
+	volume = 1
+}
+
+music = {
+	name = "cvrtoon_vatan_sagolsun"
+	file = "cvrtoon_vatan_sagolsun.ogg"
+	volume = 1
+}
+
+music = {
+	name = "cvrtoon_zahit_bizi_tan_eyleme"
+	file = "cvrtoon_zahit_bizi_tan_eyleme.ogg"
+	volume = 1
+}
+
+music = {
+	name = "cvrtoon_izmir_marsi"
+	file = "cvrtoon_izmir_marsi.ogg"
+	volume = 1
+}
+
+music = {
+	name = "cvrtoon_harbi_umumiye"
+	file = "cvrtoon_harbi_umumiye.ogg"
+	volume = 1
+}

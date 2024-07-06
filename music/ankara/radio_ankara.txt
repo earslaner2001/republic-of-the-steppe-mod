@@ -1,0 +1,273 @@
+
+music_station = "radio_ankara"
+
+music = {
+  song = "maintheme"
+  chance = {
+    modifier = {
+      factor = 2
+    }
+  }
+}
+
+#### Normal Zaman ####
+
+music = {
+  song = "yigidim_aslanim"
+  chance = {
+    modifier = {
+      factor = 2
+    }
+  }
+}
+
+music = {
+  song = "c_bekledim_de_gelmedin"
+  chance = {
+    modifier = {
+      factor = 2
+	  has_war = no
+    }
+  }
+}
+
+music = {
+  song = "c_bir_deniz_ki_gozlerin"
+  chance = {
+    modifier = {
+      factor = 2
+	  has_war = no
+    }
+  }
+}
+
+music = {
+  song = "c_carousel"
+  chance = {
+    modifier = {
+      factor = 2
+	  has_war = no
+    }
+  }
+}
+ 
+music = {
+  song = "c_eristi_nevbahar_eyyami"
+  chance = {
+    modifier = {
+      factor = 2
+	  has_war = no
+    }
+  }
+}
+
+music = {
+  song = "c_fikrimin_ince_gulu"
+  chance = {
+    modifier = {
+      factor = 2
+	  has_war = no
+    }
+  }
+}
+
+music = {
+  song = "c_hatirla_ey_peri"
+  chance = {
+    modifier = {
+      factor = 2
+	  has_war = no
+    }
+  }
+}
+
+music = {
+  song = "c_hayal_ufkumda_ucan"
+  chance = {
+    modifier = {
+      factor = 2
+	  has_war = no
+    }
+  }
+}
+ 
+music = {
+  song = "c_ikinci_bahar"
+  chance = {
+    modifier = {
+      factor = 2
+	  has_war = no
+    }
+  }
+}
+
+music = {
+  song = "c_kelebek"
+  chance = {
+    modifier = {
+      factor = 2
+	  has_war = no
+    }
+  }
+}
+
+music = {
+  song = "c_kus_olup_ucsam"
+  chance = {
+    modifier = {
+      factor = 2
+	  has_war = no
+    }
+  }
+}
+
+music = {
+  song = "c_nazende_sevgilim"
+  chance = {
+    modifier = {
+      factor = 2
+	  has_war = no
+    }
+  }
+}
+ 
+music = {
+  song = "c_pervane"
+  chance = {
+    modifier = {
+      factor = 2
+	  has_war = no
+    }
+  }
+}
+
+music = {
+  song = "c_samanyolu"
+  chance = {
+    modifier = {
+      factor = 2
+	  has_war = no
+    }
+  }
+}
+
+music = {
+  song = "c_to_vals_to_gamou"
+  chance = {
+    modifier = {
+      factor = 2
+	  has_war = no
+    }
+  }
+}
+
+music = {
+  song = "c_unutulmaz"
+  chance = {
+    modifier = {
+      factor = 2
+	  has_war = no
+    }
+  }
+}
+ 
+music = {
+  song = "c_waltz_no_iki"
+  chance = {
+    modifier = {
+      factor = 2
+    }
+  }
+}
+
+#### Savaş Zamanı ####
+
+music = {
+	song = "cvrtoon_ankaranin_tasina_bak"
+	chance = {
+		factor = 5
+		
+		has_war = yes
+	}		
+}
+
+music = {
+	song = "cvrtoon_cengiz_harbi"
+	chance = {
+		factor = 5
+		
+		has_war = yes
+	}		
+}
+
+music = {
+	song = "cvrtoon_deniz_ustu_kopurur"
+	chance = {
+		factor = 5
+		
+		has_war = yes
+	}		
+}
+
+music = {
+	song = "cvrtoon_plevne"
+	chance = {
+		factor = 5
+		
+		has_war = yes
+	}		
+}
+
+music = {
+	song = "cvrtoon_seyh_samil"
+	chance = {
+		factor = 5
+		
+		has_war = yes
+	}		
+}
+
+music = {
+	song = "cvrtoon_uskudar"
+	chance = {
+		factor = 5
+		
+		has_war = yes
+	}		
+}
+
+music = {
+	song = "cvrtoon_vatan_sagolsun"
+	chance = {
+		factor = 5
+		
+		has_war = yes
+	}		
+}
+
+music = {
+	song = "cvrtoon_zahit_bizi_tan_eyleme"
+	chance = {
+		factor = 5
+		
+		has_war = yes
+	}		
+}
+
+music = {
+	song = "cvrtoon_izmir_marsi"
+	chance = {
+		factor = 5
+		
+		has_war = yes
+	}		
+}
+
+music = {
+	song = "cvrtoon_harbi_umumiye"
+	chance = {
+		factor = 5
+		
+		has_war = yes
+	}		
+}
